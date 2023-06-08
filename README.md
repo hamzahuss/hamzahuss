@@ -43,6 +43,7 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamzahuss&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 <br>
+<br>
 
 
 ## Connect with me:
@@ -51,8 +52,8 @@
 
 <a href = "https://www.linkedin.com/in/hamza-hussien-1b9367278/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/Hamza09744782"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.facebook.com/profile.php?id=100070276871146"><img src="![image](https://github.com/hamzahuss/hamzahuss/assets/136021084/6aac22b7-715a-4ef9-8b61-8f7772c8e5c0)"/></a>
-<a href = "https://t.me/AsadAlaah1"><img src="![image](https://github.com/hamzahuss/hamzahuss/assets/136021084/420e2089-ed92-496f-9d8a-cda3ea860545)"/></a>
+<a href = "https://www.facebook.com/profile.php?id=100070276871146"><img src="D:\facebook.png"/></a>
+<a href = "https://t.me/AsadAlaah1"><img src="D:\telegram.png"/></a>
 
 </p>
 
