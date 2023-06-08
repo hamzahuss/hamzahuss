@@ -20,8 +20,8 @@
 
 ### Connect with Me :
 
-<a href="https://linkedin.com/in/hamza-hussien-1b9367278" target="_blank"><img src="https://img.shields.io/badge/-Yousef%20Dergham-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://t.me/AsadAlaah1" target="_blank"><img src="https://img.shields.io/badge/-Yousef%20Dergham-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+<a href="https://linkedin.com/in/hamza-hussien-1b9367278" target="_blank"><img src="[https://img.shields.io/badge/-Yousef%20Dergham-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white](https://myclouddoor.com/wp-content/uploads/2019/11/Linkedin-logo.png)"/></a>
+<a href="https://t.me/AsadAlaah1" target="_blank"><img src="[https://img.shields.io/badge/-Yousef%20Dergham-0077B5?style=for-the-badge&logo=Telegram&logoColor=white](https://th.bing.com/th/id/OIP.oB6LxM8vycBZQmJioMmSMAHaEo?pid=ImgDet&rs=1)"/></a>
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
